@@ -17,6 +17,22 @@ DISHA is a Women Safety Application designed to provide assistance and informati
 
 Follow these instructions to set up and run the DISHA application on your local machine.
 
+# Instructions
+
+## Getting Started
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/DISHA-Women-Safety-App.git
+2. **Navigate to the Project Directory**
+   cd DISHA-Women-Safety-App
+3. **Compile and Run the Application:**
+   g++ main.cpp -o DISHA
+   ./DISHA
+
+   
+
 ### Prerequisites
 
 - C++ Compiler
@@ -24,11 +40,11 @@ Follow these instructions to set up and run the DISHA application on your local 
 - Git
 
 
-#Compiling and Running
+## Compiling and Running
 g++ main.cpp -o DISHA
 ./DISHA
 
-#Usage
+## Usage
 
 Sign up for a new user or admin account.
 Log in with your credentials.
@@ -37,7 +53,7 @@ License
 
 This project is licensed under the MIT License.
 
-#Acknowledgments
+## Acknowledgments
 
 The city map and shortest path algorithms are implemented using C++.
 The application uses file-based storage for user and admin data.
