@@ -13,6 +13,12 @@ DISHA is a Women Safety Application designed to provide assistance and informati
 
 5. **Shortest Path Algorithm**: The application uses the Floyd-Warshall algorithm to find the shortest paths between all pairs of locations in the city map.
 
+### Prerequisites
+
+- C++ Compiler
+- Code Editor (e.g., Visual Studio Code, Code::Blocks)
+- Git
+
 ## Getting Started
 
 Follow these instructions to set up and run the DISHA application on your local machine.
@@ -25,24 +31,18 @@ Follow these instructions to set up and run the DISHA application on your local 
 
    ```bash
    git clone https://github.com/your-username/DISHA-Women-Safety-App.git
+   
 2. **Navigate to the Project Directory**
+
+   ```bash
    cd DISHA-Women-Safety-App
-3. **Compile and Run the Application:**
+   
+4. **Compile and Run the Application:**
+   ```bash
    g++ main.cpp -o DISHA
    ./DISHA
 
-   
 
-### Prerequisites
-
-- C++ Compiler
-- Code Editor (e.g., Visual Studio Code, Code::Blocks)
-- Git
-
-
-## Compiling and Running
-g++ main.cpp -o DISHA
-./DISHA
 
 ## Usage
 
