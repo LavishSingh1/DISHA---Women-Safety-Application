@@ -46,10 +46,13 @@ Follow these instructions to set up and run the DISHA application on your local 
 
 ## Usage
 
-Sign up for a new user or admin account.
-Log in with your credentials.
-Explore the application features, including emergency contact management and city map services.
-License
+1.Sign up for a new user or admin account.
+
+2.Log in with your credentials.
+
+3.Explore the application features, including emergency contact management and city map services.
+
+## License
 
 This project is licensed under the MIT License.
 
