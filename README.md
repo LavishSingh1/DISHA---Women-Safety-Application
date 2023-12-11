@@ -11,7 +11,7 @@ DISHA is a Women Safety Application designed to provide assistance and informati
 
 4. **City Map Integration**: The application includes a city map feature that allows users to find the nearest police station, request emergency assistance, and discover the fastest path from one location to another.
 
-5. **Shortest Path Algorithm**: The application uses the Floyd-Warshall algorithm to find the shortest paths between all pairs of locations in the city map.
+5. **Shortest Path Algorithm**: The application uses the Dijkstra's algorithm to find the shortest paths between source and destination locations in the city map.
 
 ### Prerequisites
 
